@@ -1,0 +1,462 @@
+[
+  {
+    "timestamp": "2025-11-20T13:35:59.102977+00:00",
+    "entry_type": "Registry: Windows",
+    "location": "HKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+    "value_name": "IconServiceLib",
+    "data": "IconCodecService.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.103964+00:00",
+    "entry_type": "Registry: Windows",
+    "location": "HKLM\\Software\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+    "value_name": "NaturalInputHandler",
+    "data": "Ninput.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.104966+00:00",
+    "entry_type": "Registry: Windows",
+    "location": "HKLM\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+    "value_name": "IconServiceLib",
+    "data": "IconCodecService.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.105966+00:00",
+    "entry_type": "Registry: Windows",
+    "location": "HKLM\\Software\\Wow6432Node\\Microsoft\\Windows NT\\CurrentVersion\\Windows",
+    "value_name": "NaturalInputHandler",
+    "data": "Ninput.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.106966+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "*kernel32",
+    "data": "kernel32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.106966+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "_wow64cpu",
+    "data": "wow64cpu.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.107966+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "_wowarmhw",
+    "data": "wowarmhw.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.108965+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "_xtajit",
+    "data": "xtajit.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.108965+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "advapi32",
+    "data": "advapi32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.110020+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "clbcatq",
+    "data": "clbcatq.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.111020+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "combase",
+    "data": "combase.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.111020+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "COMDLG32",
+    "data": "COMDLG32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.112020+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "coml2",
+    "data": "coml2.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.113019+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "DifxApi",
+    "data": "difxapi.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.113019+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "gdi32",
+    "data": "gdi32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.114523+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "gdiplus",
+    "data": "gdiplus.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.115528+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "IMAGEHLP",
+    "data": "IMAGEHLP.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.115528+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "IMM32",
+    "data": "IMM32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.116528+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "MSCTF",
+    "data": "MSCTF.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.117527+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "MSVCRT",
+    "data": "MSVCRT.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.118666+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "NORMALIZ",
+    "data": "NORMALIZ.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.119543+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "NSI",
+    "data": "NSI.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.120282+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "ole32",
+    "data": "ole32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.121323+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "OLEAUT32",
+    "data": "OLEAUT32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.121323+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "PSAPI",
+    "data": "PSAPI.DLL",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.122322+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "rpcrt4",
+    "data": "rpcrt4.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.123323+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "sechost",
+    "data": "sechost.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.124323+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "Setupapi",
+    "data": "Setupapi.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.124323+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "SHCORE",
+    "data": "SHCORE.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.125322+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "SHELL32",
+    "data": "SHELL32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.126322+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "SHLWAPI",
+    "data": "SHLWAPI.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.127412+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "user32",
+    "data": "user32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.128412+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "WLDAP32",
+    "data": "WLDAP32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.129412+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "wow64base",
+    "data": "wow64base.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.130446+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "wow64con",
+    "data": "wow64con.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.131446+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "wow64win",
+    "data": "wow64win.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.132446+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "WS2_32",
+    "data": "WS2_32.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.133731+00:00",
+    "entry_type": "Registry: KnownDLLs",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Session Manager\\KnownDLLs",
+    "value_name": "xtajit64",
+    "data": "xtajit64.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.134732+00:00",
+    "entry_type": "Registry: SecurityProviders",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\SecurityProviders",
+    "value_name": "SecurityProviders",
+    "data": "credssp.dll",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.135366+00:00",
+    "entry_type": "Registry: {4D36E967-E325-11CE-BFC1-08002BE10318}",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Class\\{4D36E967-E325-11CE-BFC1-08002BE10318}",
+    "value_name": "IconPath",
+    "data": "['%SystemRoot%\\\\System32\\\\setupapi.dll,-53']",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.136947+00:00",
+    "entry_type": "Registry: {4D36E967-E325-11CE-BFC1-08002BE10318}",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Class\\{4D36E967-E325-11CE-BFC1-08002BE10318}",
+    "value_name": "EnumPropPages32",
+    "data": "storprop.dll,DiskPropPageProvider",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.137982+00:00",
+    "entry_type": "Registry: {71A27CDD-812A-11D0-BEC7-08002BE2092F}",
+    "location": "HKLM\\System\\CurrentControlSet\\Control\\Class\\{71A27CDD-812A-11D0-BEC7-08002BE2092F}",
+    "value_name": "IconPath",
+    "data": "['%SystemRoot%\\\\System32\\\\setupapi.dll,-53']",
+    "reason": "File not found or invalid reference",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T13:35:59.138980+00:00",
+    "entry_type": "Scheduled Task",
+    "location": "\\npcapwatchdog",
+    "value_name": "npcapwatchdog",
+    "data": "Stato: Pronto | Eseguibile: C:\\Program Files\\Npcap\\CheckStatus.bat",
+    "reason": "⚠️ High-risk startup script detected (.bat)",
+    "decision": "Baseline Auto-Approve",
+    "severity": "INFO"
+  },
+  {
+    "timestamp": "2025-11-20T14:00:55.777002+00:00",
+    "entry_type": "Registry: Run",
+    "location": "HKLM\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "value_name": "asdasdasdsa",
+    "data": "kkk.exe",
+    "reason": "File not found or invalid reference",
+    "decision": "Removed",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2025-11-20T17:15:38.068806+00:00",
+    "entry_type": "Registry: Run",
+    "location": "HKLM\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "value_name": "Nuovo valore #1",
+    "data": "ccccccccccccccccccccccccc.exe",
+    "reason": "File not found or invalid reference",
+    "decision": "Removed",
+    "severity": "CRITICAL"
+  },
+  {
+    "timestamp": "2025-11-21T00:41:37.166348+00:00",
+    "entry_type": "Registry: Run",
+    "location": "HKCU\\Software\\Microsoft\\Windows\\CurrentVersion\\Run",
+    "value_name": "Teams",
+    "data": "\"C:\\Users\\PC\\AppData\\Local\\Microsoft\\WindowsApps\\MSTeams_8wekyb3d8bbwe\\ms-teams.exe\" msteams:system-initiated",
+    "reason": "⚠️ Unsigned file located outside trusted system paths",
+    "decision": "Removed",
+    "severity": "CRITICAL"
+  }
+]
